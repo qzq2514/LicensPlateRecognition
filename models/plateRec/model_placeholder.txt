@@ -1,0 +1,13 @@
+CGIM_rec_deploy.caffemodel
+CGIM_rec_deploy.prototxt
+CGIM_rec_labelmap_voc.prototxt
+MobileNetSSD_deploy.prototxt
+MobileNetSSD_test.prototxt
+MobileNetSSD_train.prototxt
+my_CGIM_loc_deploy25000.caffemodel
+my_CGIM_loc_deploy25000.prototxt
+my_CGIM_loc_deploy5000.caffemodel
+my_CGIM_loc_deploy5000.prototxt
+my_labelmap_voc.prototxt
+solver_test.prototxt
+solver_train.prototxt

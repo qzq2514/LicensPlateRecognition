@@ -1,0 +1,6 @@
+plateCornerDetFull3_90.h5
+plateCornerDetFull3_120.h5
+plateCornerDetFull90.h5
+plateCornerDetFull_all_relu90.h5
+plateCornerDetFull_no_agu30.h5
+plateCornerDetFull_no_agu90.h5

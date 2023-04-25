@@ -1,0 +1,17 @@
+CTC_2chars_all_new1-9000.data-00000-of-00001
+CTC_2chars_all_new1-9000.index
+CTC_2chars_all_new1-9000.meta
+CTC_2chars_all_new1-9000.pb
+CTC_2chars_all_new1-10500.pb
+CTC_2chars_all_org-20000.pb
+CTC_2num_alphabet_org-20000.pb
+CTC_num2_11500_frezee_my.pb
+CTC_num2_15500_frezee_my.pb
+CTC_num2_15500_frezee_my_no_blur.pb
+CTC_num2_16000_frezee_my_no_blur.pb
+CTC_num2_16500_frezee_my_noSE.pb
+CTC_num2_17000_frezee_my_noDWConv2_moudle.pb
+CTC_num2_17000_frezee_my_noSE.pb
+CTC_num2_21000_frezee_my_noDWConv_moudle.pb
+CTC_num2_24500_frezee.pb
+CTC_num2_40000_frezee_my.pb

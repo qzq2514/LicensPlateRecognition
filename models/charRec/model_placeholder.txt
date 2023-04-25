@@ -1,0 +1,5 @@
+charData4_stack_826.ckpt-5000.data-00000-of-00001
+charData4_stack_826.ckpt-5000.index
+charData4_stack_826.ckpt-5000.meta
+charData4_stack_826-5000.pb
+charData4_stack_830-8500.pb

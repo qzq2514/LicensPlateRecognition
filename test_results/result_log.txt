@@ -1,0 +1,42 @@
+"D:/forTensorflow/plateLandmarkDetTrain2/with_tag/MD_WV_all/test/images/"
+0.9635,0.9592 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull90 NMS
+0.9241,0.7729 my_CGIM_loc_deploy25000                       char_seg plateCornerDetFull90 NMS
+0.9604,0.9448 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee          plateCornerDetFull90 NMS
+0.3216,0.4874 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg                      NMS
+0.9454,0.9260 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull90
+
+0.9601,0.9474 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull3_120 NMS
+0.9392,0.9324 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull_no_agu30 NMS
+0.9410,0.9278 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull_no_agu90 NMS
+0.9587,0.9456 my_CGIM_loc_deploy25000 CTC_num2_24500_frezee+char_seg plateCornerDetFull_all_relu90 NMS
+
+
+
+0.0435ms 0.9608,0.9464 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my                  +char_seg plateCornerDetFull90 NMS
+0.0403ms 0.9241,0.7729 my_CGIM_loc_deploy25000                                           +char_seg plateCornerDetFull90 NMS
+0.0389ms 0.3210,0.4824 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my                  +char_seg                      NMS
+0.0430ms 0.9569,0.9280 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my                            plateCornerDetFull90 NMS
+0.0427ms 0.9429,0.9141 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my                  +char_seg plateCornerDetFull90
+0.0438ms 0.9457,0.8752 my_CGIM_loc_deploy25000 CTC_num2_16000_frezee_my_no_blur          +char_seg plateCornerDetFull90 NMS
+0.0428ms 0.9559,0.9232 my_CGIM_loc_deploy25000 CTC_num2_17000_frezee_my_noSE             +char_seg plateCornerDetFull90 NMS
+0.0423ms 0.9611,0.9480 my_CGIM_loc_deploy25000 CTC_num2_21000_frezee_my_noDWConv_moudle  +char_seg plateCornerDetFull90 NMS
+0.0412ms 0.9560,0.9240 my_CGIM_loc_deploy25000 CTC_num2_17000_frezee_my_noDWConv2_moudle +char_seg plateCornerDetFull90 NMS
+
+0.0430ms 0.9371,0.9093 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my+char_seg plateCornerDetFull_no_agu90 NMS
+0.0423ms 0.9557,0.9313 my_CGIM_loc_deploy25000 CTC_num2_40000_frezee_my+char_seg plateCornerDetFull_all_relu90 NMS
+
+
+"D:/forCaffe/plateRec/onlyStack/MD_WV"
+#3303 with_stack
+#NMS+my+charRec:0.9503(best::CTC_num2_24500_frezee.pb+my_CGIM_loc_deploy25000)
+               #0.9400(    ::CTC_num2_15500_frezee_my.pb+my_CGIM_loc_deploy25000)
+
+#NMS+my:0.8922
+#no_NMS+my:0.8613
+#no_NMS+no_my:0.7244
+#NMS+no_my:0.7914
+
+"D:/forCaffe/plateRec/All/plates/"
+#14802 all images
+#NMS+my:0.9523
+#NMS+my+charRec:0.9645(best:...)
